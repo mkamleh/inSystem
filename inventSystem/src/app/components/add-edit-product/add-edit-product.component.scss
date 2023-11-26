@@ -1,0 +1,35 @@
+.loginInput {
+  width: 300px;
+  height: 40px;
+  margin-left: 30px;
+}
+
+.inputParent {
+  margin-bottom: 40px;
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.fieldLabel {
+  margin-left: 30px;
+}
+
+.loginButton {
+  width: 100px;
+  height: 50px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.formParent {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+:host {
+  background-color: red;
+}
