@@ -1,2 +1,13 @@
 to start run command
 docker-compose up --build -d
+
+## users
+
+admin@admin.com
+12345678
+
+manager@manager.com
+12345678
+
+user@user.com
+12345678
